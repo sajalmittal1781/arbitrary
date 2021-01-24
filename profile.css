@@ -1,0 +1,41 @@
+.display_image{
+    height:240px;
+    width: 240px;
+    
+}
+
+h1{
+    float: right;
+    font-size: 75px;
+    padding-right: 500px;
+
+}
+h2{
+    font-size: 35px;
+}
+p{
+    font-size: 50px;
+    float: right;
+    padding-right: 300px;
+    
+}
+.list{
+    font-size: 25px;
+}
+.contact_details{
+    color: #ffffff;
+    
+    float: right;
+    padding-right: 800px;
+    font-size: 30px;
+}
+.footer{
+    background-color:#FF0000;
+}
+.section{
+    background-color: #98FB98;
+}
+.main{
+    
+    background-color:#7FFF00;
+}
